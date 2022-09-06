@@ -1,3 +1,5 @@
-# Hello
+# Magnus Lindgaard Nielsen
 
-This is my public repository.
+I am a Ph.D. fellow at [Copenhagen Center for Social Data Science]{https://sodas.ku.dk/} at the University of Copenhagen.
+
+I am interested in predictive machine learning and causal inference using quasi-experimental methods.
